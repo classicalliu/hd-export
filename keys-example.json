@@ -1,0 +1,34 @@
+[
+  {
+    "privateKey": "0x848422863825f69e66dc7f48a3302459ec845395370c23578817456ad6b04b14",
+    "publicKey": "0x034dc074f2663d73aedd36f5fc2d1a1e4ec846a4dffa62d8d8bae8a4d6fffdf2b0",
+    "path": "m/44'/309'/0'/0/0",
+    "blake160": "0x89cba48c68b3978f185df19f31634bb870e94639",
+    "linaAddress": "ckb1qyqgnjay335t89u0rpwlr8e3vd9msu8fgcuszgdmkp",
+    "aggron4Address": "ckt1qyqgnjay335t89u0rpwlr8e3vd9msu8fgcusldny6a"
+  },
+  {
+    "privateKey": "0x15ec3e9ba7024557a116f37f08a99ee7769882c2cb4cfabeced1662394279747",
+    "publicKey": "0x03f3600eb8f2bd7675fd7763dbe3fc36a1103e45b46629860a88a374bcf015df03",
+    "path": "m/44'/309'/0'/1/0",
+    "blake160": "0xaa5aa575dedb6f5d7a5c835428c3b4a3ea7ba1eb",
+    "linaAddress": "ckb1qyq25k49wh0dkm6a0fwgx4pgcw6286nm584sn5fwp8",
+    "aggron4Address": "ckt1qyq25k49wh0dkm6a0fwgx4pgcw6286nm584sw3h3dm"
+  },
+  {
+    "privateKey": "0x2305f8479f3935f7d7c5b048634bfbb13b3c9d96e3b9f6e911cad87b29af7421",
+    "publicKey": "0x022d0e3c4a618a617186841b46fca865c0a5298c26cd0935f6df8ff38b9e81e2f3",
+    "path": "m/44'/309'/0'/0/1",
+    "blake160": "0x0ce445e32d7f91c9392485ddb9bc6885ce46ad64",
+    "linaAddress": "ckb1qyqqeez9uvkhlywf8yjgthdeh35gtnjx44jqalg250",
+    "aggron4Address": "ckt1qyqqeez9uvkhlywf8yjgthdeh35gtnjx44jqq6k4cn"
+  },
+  {
+    "privateKey": "0x6c4830d67b00812c53612c2d06668d7e1d44608b1e4e32941a03ce40b2551492",
+    "publicKey": "0x0238292af65840f129163662bf87727e310325094e62a97a104a9562d069c6eb78",
+    "path": "m/44'/309'/0'/1/1",
+    "blake160": "0xfa7b46aa28cb233db373e5712e16edcaaa4c4999",
+    "linaAddress": "ckb1qyq0576x4g5vkgeakde72ufwzmku42jvfxvszf2asq",
+    "aggron4Address": "ckt1qyq0576x4g5vkgeakde72ufwzmku42jvfxvslv5zuu"
+  }
+]
