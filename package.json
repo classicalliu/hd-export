@@ -1,0 +1,11 @@
+{
+  "name": "hd-export",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@ckb-lumos/config-manager": "^0.13.2",
+    "@ckb-lumos/hd": "^0.13.2",
+    "@ckb-lumos/helpers": "^0.13.2"
+  }
+}
