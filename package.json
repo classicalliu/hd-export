@@ -4,8 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@ckb-lumos/config-manager": "^0.13.2",
-    "@ckb-lumos/hd": "^0.13.2",
-    "@ckb-lumos/helpers": "^0.13.2"
+    "@ckb-lumos/config-manager": "^0.16.0",
+    "@ckb-lumos/hd": "^0.16.0",
+    "@ckb-lumos/helpers": "^0.16.0"
   }
 }
